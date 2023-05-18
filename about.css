@@ -1,0 +1,89 @@
+.about{
+    text-align: center;
+    line-height: 2;
+    font-size: 1em;
+    margin: 0 auto 0 auto;
+    width: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about2{
+    align-self: center;
+    margin-left: 20%;
+}
+
+body{
+    margin: 0 0 0 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.first{
+    height: 5rem;
+    margin-top: 1.5em;
+    margin-left: 1rem;
+}
+.link{
+    position: absolute;
+    right: 2em;
+    top: 3em;
+}
+.middle-container{
+    background-image:
+            linear-gradient(45deg,
+              #04ace4,
+              rgba(8,83,156, 0.75)), url(
+'img/head.jpg');
+    height: 12em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+hr{
+    border: dotted gray 6px;
+    border-bottom: none;
+    width: 4%;
+}
+h1{
+    
+    color:white;
+    position: relative;
+    padding-top: 60px;
+    
+}
+.second{
+    height: 5rem;
+    margin-top: 1.5em;
+    margin-left: 1rem;
+}
+.top-container{
+    height: 8rem;
+    background-color: white;
+}
+.data{
+   margin-top: 2em;
+   text-align: center; 
+   
+   
+}
+.photo{
+    height: 500px;
+}
+.last{
+    background-color: rgb(4,172,228);
+    height: 3rem;
+    text-align: center;
+}
+h4{
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 10px;
+}
+.about{
+    font-style: normal;
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+    
+}
+.home{
+    content: "";
+}
